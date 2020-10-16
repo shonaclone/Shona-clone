@@ -4,9 +4,10 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by Kashi Gangster        #
-        #    Youtube:    Gangster Teaches and Technical zone   #
-        #   Whtsapp Num +923062045786                                  #
+        #    Facebook BruteForce, by Shonq Gangster        #
+        #    Youtube:    Gangster 
+	#
+        #   Whtsapp Num                               #
         #############################################
 
 
